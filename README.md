@@ -1,5 +1,6 @@
 # angular-2
-An Angular 2 single-page application, used learn the framework.
+
+An Angular 2 single-page application, used to learn the framework.
 
 ## External links
 
